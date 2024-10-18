@@ -1,2 +1,2 @@
-# Practical-Frontend
+# Frontend by Example
 Practical Frontend 
